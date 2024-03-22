@@ -1,6 +1,7 @@
 # Admin-Dashboard
 ![image](https://github.com/AnanyaJindal1145/Admin-Dashboard/assets/118926116/f6f5f049-1476-4bec-8fa3-50f8757e4b61)
-![image](https://github.com/AnanyaJindal1145/Admin-Dashboard/assets/118926116/9570b67f-482c-4f10-b9ea-af0351569eee)
+
+
 ![image](https://github.com/AnanyaJindal1145/Admin-Dashboard/assets/118926116/9af9d29c-033f-4c36-80b1-5492e4a3d3d2)
 
 ## Installation Guide
