@@ -1,5 +1,15 @@
 import { tokens } from "../theme";
 
+
+//mockDataTeam = id, name, email, age, phone, access ---9
+//mockDataContacts = id, name, email, age, phone, address, city, zipCode, registrarId ---11
+//mockDataInvoices = id, name, email, cost, phone, date ---8
+//mockTransactions = txId, user, date, cost ---8
+//mockBarData = country, "hot dog", "hot dogColor", burger, burgerColor, kebab, kebabColor, donut, donutColor ---7
+//mockPieData = id, label, value, color ---5
+//mockLineData = id, color, data: x,y
+//mockGeographyData = id, value
+
 export const mockDataTeam = [
   {
     id: 1,
